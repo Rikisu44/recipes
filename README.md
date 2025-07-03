@@ -1,1 +1,2 @@
 # recipes
+Welcome to recipes a simple and clean recipe collection crafted using only HTML! This website features a variety of delicious recipes organized for easy browsing. Whether you're looking for quick snacks, hearty meals, or sweet desserts, you'll find easy-to-follow instructions and ingredient lists — all in a minimalist, fast-loading design with no extra code or distractions. Perfect for users who appreciate simplicity and ease of use.
